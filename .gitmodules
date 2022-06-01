@@ -1,0 +1,9 @@
+[submodule "oxycloud-frontend"]
+	path = oxycloud-frontend
+	url = https://github.com/frittatelle/oxycloud-frontend.git
+[submodule "oxycloud-backend"]
+	path = oxycloud-backend
+	url = https://github.com/frittatelle/oxycloud-backend.git
+[submodule "oxycloud-docs"]
+	path = oxycloud-docs
+	url = https://github.com/frittatelle/oxycloud-docs.git
